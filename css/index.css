@@ -219,6 +219,7 @@ img {
   width: 100%;
   border-top: 2px dashed #C0C0C0;
   background: #FFEBCD;
+  height: 7rem;
 }
 .footer p {
   text-align: center;
